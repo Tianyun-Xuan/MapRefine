@@ -2,7 +2,7 @@
  * @Copyright [2021] <Innovusion Inc.>
  * @LastEditTime: 2021-12-21 16:20:06
  * @LastEditors: Tianyun Xuan
- * @FilePath: /pose_monitor/innolog/innolog_base.h
+ * @FilePath: src/innolog/innolog_base.h
  */
 
 #ifndef OMNISENSE_INNOLOG_INNOLOG_BASE_H_

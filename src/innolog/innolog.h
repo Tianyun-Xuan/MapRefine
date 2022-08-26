@@ -2,7 +2,7 @@
  * @Copyright [2021] <Innovusion Inc.>
  * @LastEditTime: 2022-04-14 10:07:55
  * @LastEditors: Tianyun Xuan
- * @FilePath: /calib/innolog/innolog.h
+ * @FilePath: src/innolog/innolog.h
  */
 
 #ifndef OMNISENSE_INNOLOG_INNOLOG_H_

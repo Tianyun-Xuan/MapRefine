@@ -2,7 +2,7 @@
  * @Copyright [2021] <Innovusion Inc.>
  * @LastEditTime: 2021-12-14 14:05:33
  * @LastEditors: Tianyun Xuan
- * @FilePath: /apollo/modules/omnisense/innolog/logger.h
+ * @FilePath: src/innolog/logger.h
  */
 
 #ifndef OMNISENSE_INNOLOG_LOGGER_H_

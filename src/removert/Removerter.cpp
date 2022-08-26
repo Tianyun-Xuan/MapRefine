@@ -303,9 +303,9 @@ void Removerter::submap_voxelDownsampling(
             voxelID_pointID.insert({id, {i}});
         }
     }
-    inno_log_info("%u %u %u", rx, ry, rz);
-    inno_log_info("%u", total_cell);
-    inno_log_info("Static Done %zu", voxelID_pointID.size());
+    // inno_log_info("%u %u %u", rx, ry, rz);
+    // inno_log_info("%u", total_cell);
+    // inno_log_info("Static Done %zu", voxelID_pointID.size());
 
     for (auto& pair : voxelID_pointID) {
         if (pair.second.size() >= kMinVoxelPoints) {

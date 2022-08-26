@@ -2,7 +2,7 @@
  * @Copyright [2021] <Innovusion Inc.>
  * @LastEditTime: 2021-12-14 11:29:07
  * @LastEditors: Tianyun Xuan
- * @FilePath: /apollo/modules/omnisense/innolog/rotate_log_file.cpp
+ * @FilePath: src/innolog/rotate_log_file.cpp
  */
 
 #include "rotate_log_file.h"

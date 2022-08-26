@@ -50,7 +50,7 @@ class Removerter {
     float kDownsampleVoxelSize = 0.02;
     bool kFlagSaveMapPointcloud = true;
     bool kFlagSaveCleanScans = true;
-    size_t kMinVoxelPoints = 2;
+    size_t kMinVoxelPoints = 1;
 
     // Eigen::Matrix4d kSE3MatExtrinsicLiDARtoPoseBase =
     //     Eigen::Matrix4d::Identity();
